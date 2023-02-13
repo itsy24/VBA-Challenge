@@ -108,7 +108,7 @@ For Each ws In Worksheets
     ws.Range("O1:P1").EntireColumn.AutoFit
 
     Dim i, summaryrow As Integer
-    Dim inc, dec, highvol  As Double
+ 
 
 
     Perc_lsrow = ws.Cells(Rows.Count, 12).End(xlUp).Row     'last row of percent change column
