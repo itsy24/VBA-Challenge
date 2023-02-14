@@ -12,9 +12,8 @@ Conditional formatting to showcase positive changes in green and negative change
 
 Overall table created for the stock with the greates % increase, greates % decrease, and greatest total volume for the specific year.
 
-Excel spreadsheets ran with this macro should like the screenshot below.
 
-![Screenshot](2018.png)
+
 
 
 
